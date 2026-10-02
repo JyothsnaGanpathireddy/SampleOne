@@ -1,2 +1,0 @@
-# SampleOne
-For Pratice
